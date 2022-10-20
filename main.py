@@ -23,7 +23,7 @@ bill = {
 }
 
 leg_sess = 79
-bill_name = 'HB2'
+bill_name = 'HB4'
 
 #Data from history page
 #--------------------------------------------
