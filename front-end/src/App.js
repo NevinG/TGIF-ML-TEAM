@@ -11,7 +11,7 @@ function App() {
   const legislative_sessions = ['781', '782', '783', '784', '78R', '791', '792', '793', '79R', '80R', '811', '81R', '821', '82R', '831', '832', '833', '83R', '84R', '851', '85R', '86R', '871', '872', '873', '87R'];
   return (
     <div>
-      <h1 style={{textAlign: "center"}}>WILL THIS BILL PASS TEXAS LEGISLATION</h1>
+      <h1 style={{textAlign: "center"}}>ARE THESE NUMBERS UP THE STANDARD OF THE MIGHT TEXAS LEGISLATURE</h1>
       <div style={{display: "flex", justifyContent: "center", alignItems: "center"}}>
         <p>Legislative Session: </p>
         <select value={legSess} onChange={changeLegSess}>
